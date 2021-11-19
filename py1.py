@@ -11,3 +11,4 @@ def sum():
         print(s)
 
 sum()
+print("result is ",sum())
